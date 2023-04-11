@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">demo_admob</string>
+    <string name="ad_text_button">CLICK HERE</string>
 </resources>
